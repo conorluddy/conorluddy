@@ -1,15 +1,20 @@
 
-`Currently a product engineer at` [`Nory`](https://nory.ai)
+`Product Engineer at:` [[`Nory`](https://nory.ai)]
 
-[`LinkedIn`](https://linkedin.com/in/cluddy) | 
-[`Instagram`](https://www.instagram.com/opticonor) | 
-[`500PX`](https://500px.com/p/luddy) | 
-[`Dribbble`](https://dribbble.com/ConorLuddy) | 
-[`Behance`](https://www.behance.net/luddy)
+`Websites:` [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
-`Website`: [`conor.fyi`](https://www.conor.fyi) === [`conorluddy.com`](https://www.conorluddy.com)
+`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
 
-`Active side-project:` [`Residents`](https://github.com/conorluddy/Residents)
+`Socials:` [
+[`LinkedIn`](https://linkedin.com/in/cluddy), 
+[`Dribbble`](https://dribbble.com/ConorLuddy), 
+[`Behance`](https://www.behance.net/luddy), 
+[`Instagram`](https://www.instagram.com/opticonor), 
+[`500PX`](https://500px.com/p/luddy), 
+[`Etsy`](https://www.etsy.com/shop/CeadMileFoto),
+[`Strava`](https://www.strava.com/athletes/1767123)
+]
+
 
 
 <!--
