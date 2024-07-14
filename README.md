@@ -1,9 +1,13 @@
 Currently a product engineer at: https://nory.ai
 
 LinkedIn: https://linkedin.com/in/cluddy
+
 Instagram: https://www.instagram.com/opticonor
+
 500PX: https://500px.com/p/luddy
+
 Dribbble: https://dribbble.com/ConorLuddy
+
 Website: https://www.conor.fyi || https://www.conorluddy.com
 
 Active side-project: https://github.com/conorluddy/Residents
