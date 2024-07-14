@@ -1,10 +1,15 @@
-- Currently a product engineer at: [Nory](https://nory.ai)
-- LinkedIn: [cluddy](https://linkedin.com/in/cluddy)
-- Instagram: [opticonor](https://www.instagram.com/opticonor)
-- 500PX: [luddy](https://500px.com/p/luddy)
-- Dribbble: [ConorLuddy](https://dribbble.com/ConorLuddy)
-- Website: [conor.fyi](https://www.conor.fyi) || [conorluddy.com](https://www.conorluddy.com)
-- Active side-project: [Residents](https://github.com/conorluddy/Residents)
+
+`Currently a product engineer at` [`Nory`](https://nory.ai)
+
+[`LinkedIn`](https://linkedin.com/in/cluddy) | 
+[`Instagram`](https://www.instagram.com/opticonor) | 
+[`500PX`](https://500px.com/p/luddy) | 
+[`Dribbble`](https://dribbble.com/ConorLuddy) | 
+[`Behance`](https://www.behance.net/luddy)
+
+`Website`: [`conor.fyi`](https://www.conor.fyi) === [`conorluddy.com`](https://www.conorluddy.com)
+
+`Active side-project:` [`Residents`](https://github.com/conorluddy/Residents)
 
 
 <!--
