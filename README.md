@@ -6,6 +6,7 @@
 `Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
 
 `Socials:` [
+[`X`](https://x.com/conorluddy),
 [`LinkedIn`](https://linkedin.com/in/cluddy), 
 [`Dribbble`](https://dribbble.com/ConorLuddy), 
 [`Behance`](https://www.behance.net/luddy), 
