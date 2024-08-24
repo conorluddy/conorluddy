@@ -3,8 +3,6 @@
 
 `Websites:` [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
-`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
-
 `Socials:` [
 [`X`](https://x.com/conorluddy),
 [`LinkedIn`](https://linkedin.com/in/cluddy), 
@@ -16,6 +14,9 @@
 [`Strava`](https://www.strava.com/athletes/1767123)
 ]
 
+`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
+
+I'm currently building out a bootstrap type Express API repo to learn more about auth and to have it as a foundation to build apps on top of. 
 
 
 <!--
