@@ -14,9 +14,11 @@
 [`Strava`](https://www.strava.com/athletes/1767123)
 ]
 
+-----
+
 `Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
 
-I'm currently building out a bootstrap type Express API repo to learn more about auth and to have it as a foundation to build apps on top of. 
+`I'm currently building out a bootstrap type Express API, to learn more about auth and to have it as a foundation to build apps on top of. Aiming for a high degree of tests and types to make it bulletproof. `
 
 
 <!--
