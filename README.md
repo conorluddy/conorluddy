@@ -16,7 +16,7 @@
 
 -----
 
-`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents) [`ManaJitsu`](https://www.manajitsu.com/)]
+`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents), [`ManaJitsu`](https://www.manajitsu.com/)]
 
 
 
