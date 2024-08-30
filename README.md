@@ -16,9 +16,8 @@
 
 -----
 
-`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents)]
+`Active side-projects:` [[`Residents`](https://github.com/conorluddy/Residents) [`ManaJitsu`](https://www.manajitsu.com/)]
 
-`I'm currently building out a bootstrap type Express API, to learn more about auth and to have it as a foundation to build apps on top of. Aiming for a high degree of tests and types to make it bulletproof. `
 
 
 <!--
