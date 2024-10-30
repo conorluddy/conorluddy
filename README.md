@@ -4,7 +4,6 @@
 `Websites:` [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
 `Socials:` [
-[`X`](https://x.com/conorluddy),
 [`LinkedIn`](https://linkedin.com/in/cluddy), 
 [`Dribbble`](https://dribbble.com/ConorLuddy), 
 [`Behance`](https://www.behance.net/luddy), 
