@@ -13,8 +13,6 @@
 [`Strava`](https://www.strava.com/athletes/1767123)
 ]
 
------
-
 `Active side-projects:` [[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
 
 
