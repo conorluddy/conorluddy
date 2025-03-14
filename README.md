@@ -15,7 +15,7 @@
 
 -----
 
-`Active side-projects:` [[`Residents`](https://www.residents.rest), [`ManaJitsu`](https://www.manajitsu.com/)]
+`Active side-projects:` [[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
 
 
 
