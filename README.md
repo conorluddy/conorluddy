@@ -1,6 +1,4 @@
 
-`Product Engineer at:` [[`Nory`](https://nory.ai)]
-
 `Websites:` [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
 `Socials:` [
