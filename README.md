@@ -1,7 +1,7 @@
 
 `Websites:` [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
-`Socials:` [
+`Links:` [
 [`LinkedIn`](https://linkedin.com/in/cluddy), 
 [`Dribbble`](https://dribbble.com/ConorLuddy), 
 [`Behance`](https://www.behance.net/luddy), 
@@ -11,7 +11,7 @@
 [`Strava`](https://www.strava.com/athletes/1767123)
 ]
 
-`Active side-projects:` [[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
+`Side quests:` [[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
 
 
 
