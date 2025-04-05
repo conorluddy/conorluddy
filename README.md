@@ -27,7 +27,7 @@ Side quests
 
 [`Crúcai`](https://github.com/conorluddy/Crucai) - React Hooks library 
 
-[`ManaJitsu`](https://www.manajitsu.com/)] - Jiu Jitsu gym management app
+[`ManaJitsu`](https://www.manajitsu.com/) - Jiu Jitsu gym management app
 
 
 <!--
