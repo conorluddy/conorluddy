@@ -1,20 +1,28 @@
 
 Websites
+
 [[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
 
 Resume
+
 [`LinkedIn`](https://linkedin.com/in/cluddy)
 
 Design
+
 [`Dribbble`](https://dribbble.com/ConorLuddy)
+
 [`Behance`](https://www.behance.net/luddy)
 
 Photography 
+
 [`Instagram`](https://www.instagram.com/opticonor)
+
 [`500PX`](https://500px.com/p/luddy)
+
 [`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
 
 Side quests
+
 [[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
 
 
