@@ -1,7 +1,7 @@
 
 Websites
 
-[[`conor.fyi`](https://www.conor.fyi), [`conorluddy.com`](https://www.conorluddy.com)]
+[`conor.fyi`](https://www.conor.fyi) / [`conorluddy.com`](https://www.conorluddy.com)
 
 Resume
 
@@ -23,7 +23,11 @@ Photography
 
 Side quests
 
-[[`Residents`](https://www.residents.rest) | [`Crúcai`](https://github.com/conorluddy/Crucai) | [`ManaJitsu`](https://www.manajitsu.com/)]
+[`Residents`](https://www.residents.rest) - Express/Auth boilerplate
+
+[`Crúcai`](https://github.com/conorluddy/Crucai) - React Hooks library 
+
+[`ManaJitsu`](https://www.manajitsu.com/)] - Jiu Jitsu gym management app
 
 
 <!--
