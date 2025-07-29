@@ -7,6 +7,7 @@
 
 `Photography` [`Instagram`](https://www.instagram.com/opticonor) [`500PX`](https://500px.com/p/luddy) [`Unsplash`](https://unsplash.com/@opticonor) [`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
 
+`Development` 👇🏻
 <!--
 **conorluddy/conorluddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
