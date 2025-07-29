@@ -1,36 +1,11 @@
 
-Websites
+`Websites` [`conor.fyi`](https://www.conor.fyi) / [`conorluddy.com`](https://www.conorluddy.com)
 
-[`conor.fyi`](https://www.conor.fyi) / [`conorluddy.com`](https://www.conorluddy.com)
+`Resume` [`LinkedIn`](https://linkedin.com/in/cluddy)
 
-Resume
+`Design` [`Dribbble`](https://dribbble.com/ConorLuddy) [`Behance`](https://www.behance.net/luddy)
 
-[`LinkedIn`](https://linkedin.com/in/cluddy)
-
-Design
-
-[`Dribbble`](https://dribbble.com/ConorLuddy)
-
-[`Behance`](https://www.behance.net/luddy)
-
-Photography 
-
-[`Instagram`](https://www.instagram.com/opticonor)
-
-[`500PX`](https://500px.com/p/luddy)
-
-[`Unsplash`](https://unsplash.com/@opticonor)
-
-[`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
-
-Side quests
-
-[`Residents`](https://www.residents.rest) - Express/Auth boilerplate
-
-[`Crúcai`](https://github.com/conorluddy/Crucai) - React Hooks library 
-
-[`ManaJitsu`](https://www.manajitsu.com/) - Jiu Jitsu gym management app
-
+`Photography` [`Instagram`](https://www.instagram.com/opticonor) [`500PX`](https://500px.com/p/luddy) [`Unsplash`](https://unsplash.com/@opticonor) [`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
 
 <!--
 **conorluddy/conorluddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
