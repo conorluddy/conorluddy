@@ -7,4 +7,4 @@
 
 `Photography` [`Instagram`](https://www.instagram.com/opticonor) [`500PX`](https://500px.com/p/luddy) [`Unsplash`](https://unsplash.com/@opticonor) [`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
 
-`All commits in this Github are my personal projects.`
+`(All commits in this Github are to my personal side-projects.)`
