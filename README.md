@@ -1,6 +1,8 @@
+```
 I'm am Irish, Dublin based, Senior Engineer and Tech Lead at Toast. 
 
 Working as a software engineer since 2006.
+```
 
 `Websites` [`conor.fyi`](https://www.conor.fyi) / [`conorluddy.com`](https://www.conorluddy.com)
 
