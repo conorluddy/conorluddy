@@ -1,10 +1,8 @@
 ```
 I'm am Irish, Dublin based, Senior Engineer and Tech Lead at Toast. 
 
-Full-time software engineer since 2006.
+[I post about building software, mainly with AI, on my website](https://www.conor.fyi/)
 ```
-
-`Websites` [`conor.fyi`](https://www.conor.fyi) / [`conorluddy.com`](https://www.conorluddy.com)
 
 `Resume` [`LinkedIn`](https://linkedin.com/in/cluddy)
 
@@ -14,4 +12,4 @@ Full-time software engineer since 2006.
 
 `Currently building` [`Afterset`](https://apps.apple.com/us/app/afterset/id6756236020) `and` [`Grapla`](https://www.grapla.app/)
 
-`Code style guide for my AI agents` [`CodeStyle`](https://github.com/conorluddy/Codestyle)
+`Code style guide for my AI agents` [`CodeStyle`]([https://github.com/conorluddy/Codestyle](https://www.conor.fyi/writing/codestyle))
