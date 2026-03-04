@@ -1,8 +1,8 @@
 ```
 I'm am Irish, Dublin based, Senior Engineer and Tech Lead at Toast. 
-
-[I post about building software, mainly with AI, on my website](https://www.conor.fyi/)
 ```
+
+[`I post about building software, mainly with AI, on my website`](https://www.conor.fyi/)
 
 `Resume` [`LinkedIn`](https://linkedin.com/in/cluddy)
 
