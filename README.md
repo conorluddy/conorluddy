@@ -1,15 +1,17 @@
-```
-I'm am Irish, Dublin based, Senior Engineer and Tech Lead at Toast. 
-```
+# Hey, I'm Conor
 
-[`I post about building software, mainly with AI, on my website`](https://www.conor.fyi/)
+Dublin-based engineer and tech lead at Toast, building indie apps on the side.
 
-`Resume` [`LinkedIn`](https://linkedin.com/in/cluddy)
+## What I'm Building
 
-`Design` [`Dribbble`](https://dribbble.com/ConorLuddy) [`Behance`](https://www.behance.net/luddy)
+- [Afterset](https://apps.apple.com/us/app/afterset/id6756236020) — Weightlifting app for tracking and programming your training
+- [Grapla](https://www.grapla.app/) — BJJ training app for logging rolls and tracking progress
 
-`Photography` [`Instagram`](https://www.instagram.com/opticonor) [`500PX`](https://500px.com/p/luddy) [`Unsplash`](https://unsplash.com/@opticonor) [`Etsy`](https://www.etsy.com/shop/CeadMileFoto)
+## Recent Writing
 
-`Currently building` [`Afterset`](https://apps.apple.com/us/app/afterset/id6756236020) `and` [`Grapla`](https://www.grapla.app/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-`Code style guide for my AI agents` [`CodeStyle`]([https://github.com/conorluddy/Codestyle](https://www.conor.fyi/writing/codestyle))
+## Links
+
+[Website](https://www.conor.fyi/) · [LinkedIn](https://linkedin.com/in/cluddy) · [Dribbble](https://dribbble.com/ConorLuddy) · [Instagram](https://www.instagram.com/opticonor) · [Unsplash](https://unsplash.com/@opticonor)
