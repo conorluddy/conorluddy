@@ -9,8 +9,7 @@ Dublin-based engineer and tech lead at Toast, building indie apps on the side.
 
 ## Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Connecting Claude Code to Your Second Brain](https://conor.fyi/writing/connecting-claude-code-to-your-second-brain)- [FoundationModels: Quick Reference Cheatsheet](https://conor.fyi/writing/foundation-models-cheatsheet)- [iOS 26 FoundationModels: Comprehensive Swift/SwiftUI Reference](https://conor.fyi/writing/foundation-models-reference)- [Anatomy of a CSS Phone Mockup](https://conor.fyi/writing/anatomy-of-a-css-phone-mockup)- [Three years of AI](https://conor.fyi/writing/three-years-of-ai)<!-- BLOG-POST-LIST:END -->
 
 ## Open Source
 
