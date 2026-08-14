@@ -1,60 +1,76 @@
-# Hey, I'm Conor
 
-Dublin-based engineer and tech lead at Toast, building indie apps on the side.
+## Currently building some indie iOS apps (all free to download)
 
-## What I'm Building
+[Grapla](https://www.grapla.app/) — Jiu Jitsu training app for logging rolls and tracking progress · [web](https://github.com/conorluddy/GraplaWeb)
 
-- [Afterset](https://apps.apple.com/us/app/afterset/id6756236020) — Weightlifting app for tracking and programming your training
-- [Grapla](https://www.grapla.app/) — BJJ training app for logging rolls and tracking progress
+[Ocras](https://github.com/conorluddy/Ocras) — Widget-first intermittent fasting · [web](https://github.com/conorluddy/OcrasWeb)
+
+[Afterset](https://apps.apple.com/us/app/afterset/id6756236020) — Gym weight training app · [web](https://github.com/conorluddy/aftersetweb)
 
 ## Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[Three Years of AI](https://www.conor.fyi/writing/three-years-of-ai)
 
-## Open Source
+[My Workflow - April 2026](https://www.conor.fyi/writing/working-april-26)
 
-🤖 [iOS Simulator Skill](https://github.com/conorluddy/ios-simulator-skill) — A Claude Code skill for building, running, and interacting with iOS simulators
+[Accessibility and AI Agents](https://www.conor.fyi/writing/ai-access)
 
-🧊 [Liquid Glass Reference](https://github.com/conorluddy/LiquidGlassReference) — The iOS 26 Liquid Glass effect — a Swift/SwiftUI reference for humans and agents
+More at [conor.fyi/writing](https://www.conor.fyi/writing)
 
-🔌 [xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) — MCP and plugin suite grouping Xcode/IDB tools into workflow-aware MCPs
+## LLM Skills
 
-🔧 [xc-mcp](https://github.com/conorluddy/xc-mcp) — Lightweight Xcode CLI wrapper with progressive disclosure of build output
+[iOS Simulator Skill](https://github.com/conorluddy/ios-simulator-skill) — For building, running, and interacting with iOS simulators (1000+ stars)
 
-🧬 [ContextPods](https://github.com/conorluddy/ContextPods) — An MCP that generates and manages other local MCPs
+[Skills Marketplace](https://github.com/conorluddy/marketplace) - Claude Marketplace where I've started putting anything useful
 
-🏗️ [Residents](https://github.com/conorluddy/Residents) — A production-ready Express 5 boilerplate for SaaS and app backends
+[Linear Skills](https://github.com/conorluddy/linear-skills) — A lightweight Claude Code skill for fetching Linear issues
 
-🎯 [Persuader](https://github.com/conorluddy/Persuader) — Prompts your LLM until it outputs schema-conforming JSON
+https://github.com/conorluddy/marketplace
 
-👁️ [SwiftAIAccess](https://github.com/conorluddy/SwiftAIAccess) — A Swift package for AI-navigable SwiftUI apps
+## Open Source 
 
-🧰 [AgentLoadout](https://github.com/conorluddy/AgentLoadout) — One command to bootstrap your terminal for agentic coding
+Generally tools I build for myself that I'm happy to share
 
-🗂️ [Zodsidian](https://github.com/conorluddy/Zodsidian) — Zod-based YAML frontmatter schema enforcement for Obsidian vaults
+[Residents](https://github.com/conorluddy/Residents) — A production-ready Express 5 boilerplate for SaaS and app backends
 
-🌉 [Obsidian Claude Bridge](https://github.com/conorluddy/obsidian-claude-bridge) — Obsidian plugin bridging your vault with Claude Code
+[Vestige](https://github.com/conorluddy/Vestige) — Agent memory infrastructure built around context economics
 
-📋 [Linear Skills](https://github.com/conorluddy/linear-skills) — A lightweight Claude Code skill for fetching Linear issues
+[XC MCP](https://github.com/conorluddy/xc-mcp) — Xcode CLI wrapper MCP with progressive disclosure of build output
 
-🪝 [Crúcaí](https://github.com/conorluddy/Crucai) — Irish for hooks — a library of unusual but useful React hooks
+[Liquid Glass Reference](https://github.com/conorluddy/LiquidGlassReference) — The iOS 26 Liquid Glass effect — a Swift/SwiftUI reference for humans and agents
 
-😌 [ahRelax](https://github.com/conorluddy/ahRelax) — Lightweight scroll-based animations — a 2014 experiment that found an audience
+[SwiftAIAccess](https://github.com/conorluddy/SwiftAIAccess) — A Swift package for AI-navigable SwiftUI apps
 
-🌤️ [Weather Haiku](https://github.com/conorluddy/weather-haiku) — A Rust + ChatGPT experiment — generating weather haiku since 2023
+[AgentLoadout](https://github.com/conorluddy/AgentLoadout) — One command to bootstrap your terminal for agentic coding
 
-🥋 [IBJJF Player](https://github.com/conorluddy/ibjjf) — A video grid player for IBJJF competition footage
+[Claudaline](https://github.com/conorluddy/claudaline) — Minimal status line script for Claude Code
 
-🐦 [TweetMap](https://github.com/conorluddy/TweetMap) — A 2012 Twitter stream heat map — built for a job interview
+[Tokextract](https://github.com/conorluddy/tokextract) — Extracts DTCG design tokens and a brand DESIGN.md from SwiftUI codebases
 
-🚌 [busWarner](https://github.com/conorluddy/busWarner) — A 2016 Ionic app for real-time Dublin Bus arrivals
+[CLaunch](https://github.com/conorluddy/claunch) — Interactive launcher for Claude Code — pick a preset or customise flags
 
-🗺️ [Bring Your Friends](https://github.com/conorluddy/bringyourfriends) — A 2014 proof-of-concept for map-based lift coordination
+[Tokenblast.cc](https://github.com/conorluddy/tokenblast.cc) — Interactive config generator for Claude Code environment flags
 
-🎨 [Sketch Plugins](https://github.com/conorluddy/SketchPlugins) — Custom Sketch plugins from my time at EachAndOther
+[ContextPods](https://github.com/conorluddy/ContextPods) — An MCP that generates and manages other local MCPs
 
-💼 [React Portfolio 2017](https://github.com/conorluddy/React-Portfolio-2017) — My 2017 portfolio — React v15, parallax, and Gulp
+[Persuader](https://github.com/conorluddy/Persuader) — Prompts your LLM until it outputs schema-conforming JSON
+
+[KeywordKid](https://github.com/conorluddy/KeywordKid) — Self-hosted iOS App Store keyword research tooling (ASO) (Private for now)
+
+[Zodsidian](https://github.com/conorluddy/Zodsidian) — Zod-based YAML frontmatter schema enforcement for Obsidian vaults
+
+## Older work
+
+[Weather Haiku](https://github.com/conorluddy/weather-haiku) — A Rust + ChatGPT experiment — My first LLM integration - 2023
+
+[React Portfolio 2017](https://github.com/conorluddy/React-Portfolio-2017) — My 2017 portfolio: React, parallax, and Gulp
+
+[ahRelax](https://github.com/conorluddy/ahRelax) — Lightweight scroll-based animations
+
+[busWarner](https://github.com/conorluddy/busWarner) — A 2016 Ionic app for real-time Dublin Bus arrivals
+
+[Bring Your Friends](https://github.com/conorluddy/bringyourfriends) — A 2014 POC for map-based ride-share coordination
+
 
 ## Links
 
