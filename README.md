@@ -3,11 +3,11 @@ www.conor.fyi
 
 ## I'm currently building some indie iOS apps (all free to download)
 
-[Grapla](https://www.grapla.app/) — Jiu Jitsu training app for logging rolls and tracking progress · [web](https://github.com/conorluddy/GraplaWeb)
+[Grapla](https://apps.apple.com/ie/app/grapla-bjj-jiu-jitsu-journal/id6746930462) — Jiu Jitsu training app for logging rolls and tracking progress · [web](https://github.com/conorluddy/GraplaWeb)
 
-[Ocras](https://github.com/conorluddy/Ocras) — Widget-first intermittent fasting · [web](https://github.com/conorluddy/OcrasWeb)
+[Ocras](https://apps.apple.com/ie/app/ocras-intermittent-fasting/id6762506849) — Widget-first intermittent fasting · [web](https://github.com/conorluddy/OcrasWeb)
 
-[Afterset](https://apps.apple.com/us/app/afterset/id6756236020) — Gym weight training app · [web](https://github.com/conorluddy/aftersetweb)
+[Afterset](https://apps.apple.com/ie/app/afterset-gym-workout-tracker/id6756236020) — Gym weight training app · [web](https://github.com/conorluddy/aftersetweb)
 
 ## Recent Writing
 
